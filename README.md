@@ -19,3 +19,6 @@ Wallets that have made just a couple of interactions with our target may not be 
 ```
 python3 ergovision.py -s 9fowPvQ2GXdmhD2bN54EL9dRnio3kBQGyrD3fkbHwuTXD6z1wBU -t 20
 ```
+
+### Graph
+The graph will look messy at first, it's reccomended to click `Make Clusters`
