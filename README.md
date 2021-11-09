@@ -21,4 +21,4 @@ python3 ergovision.py -s 9fowPvQ2GXdmhD2bN54EL9dRnio3kBQGyrD3fkbHwuTXD6z1wBU -t 
 ```
 
 ### Graph
-The graph will look messy at first, it's reccomended to click `Make Clusters`
+The graph will look messy at first, it's recomended to click `Make Clusters` and `Node Labels`
