@@ -1,3 +1,12 @@
+<h1 align="center">
+  <br>
+  <a href="https://github.com/CryptoCream/ErgoVision"><img src="https://wallpapercave.com/wp/wp5865690.jpg" alt="ErgoVision"></a>
+  <br>
+  ErgoVision
+  <br>
+</h1>
+
+
 ### Usage
 ErgoVision's default crawling depth is 3 i.e. it fetches the history of target wallet(s), crawls the newly found wallets and then crawls the wallets in the result again. The crawling depth can be increased or decresead with `-d` option.
 ```
