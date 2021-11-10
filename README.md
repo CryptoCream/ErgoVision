@@ -1,6 +1,6 @@
 <h1 align="center">
   <br>
-  <a href="https://github.com/CryptoCream/ErgoVision"><img src="https://wallpapercave.com/wp/wp5865690.jpg" alt="ErgoVision"></a>
+  <a href="https://github.com/CryptoCream/ErgoVision"><img src="https://i.ibb.co/D836bhs/Ergo-Vision.png" alt="ErgoVision"></a>
   <br>
   ErgoVision
   <br>
