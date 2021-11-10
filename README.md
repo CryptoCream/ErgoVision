@@ -22,3 +22,4 @@ python3 ergovision.py -s 9fowPvQ2GXdmhD2bN54EL9dRnio3kBQGyrD3fkbHwuTXD6z1wBU -t 
 
 ### Graph
 The graph will look messy at first, it's recomended to click `Make Clusters` and `Node Labels`
+The graph is generated using [Quark](https://github.com/s0md3v/Quark)
