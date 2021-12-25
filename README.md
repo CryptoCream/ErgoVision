@@ -12,7 +12,9 @@ ErgoVision's default crawling depth is 3 i.e. it fetches the history of target w
 
 The graph will look messy at first, it's recommended to click `Make Clusters`, `Color Clusters` and `Spacify`.
 
-You can begin to create links between Nodes by right clicking, searching for an address will highlight the node in yellow.
+You can begin to create links between Nodes by right clicking.
+
+Searching for an address will highlight the node in yellow.
 
 ```
 python3 ergovision.py -s 9fowPvQ2GXdmhD2bN54EL9dRnio3kBQGyrD3fkbHwuTXD6z1wBU -d 2
