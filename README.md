@@ -10,7 +10,7 @@
 ### Usage
 ErgoVision's default crawling depth is 3 i.e. it fetches the history of target wallet(s), crawls the newly found wallets and then crawls the wallets in the result again. The crawling depth can be increased or decreased with `-d` option.
 
-The graph will look messy at first, it's recomended to click `Make Clusters`, `Color Clusters` and `Spacify`.
+The graph will look messy at first, it's recommended to click `Make Clusters`, `Color Clusters` and `Spacify`.
 
 You can begin to create links between Nodes by right clicking, searching for an address will highlight the node in yellow.
 
